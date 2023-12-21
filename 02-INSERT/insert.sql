@@ -1,1 +1,0 @@
-INSERT INTO employes (prenom, nom, sexe, service, date_embauche, salaire) VALUES ("Antoine", "Rosso", "m", "direction", "2018-12-09", "11000");
